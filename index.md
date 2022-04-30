@@ -1,6 +1,6 @@
 ## Welcome to Chen Lei Homepage
 
-I received his B.Sc. degree in applied mathematics and his M.Sc. degree in operational research and control theory from Northeastern University, China, in 1999 and 2002, respectively, and his Ph.D.degree in electrical and electronic engineering from Nanyang Technological University, Singapore, in 2007. He was as a PosDoc in National University of Singapore, Singapore, worked in many multinational corporations (Teraoka, Etiqa, SenseTime, etc). Now he is as an image recognition expert in Midea Group. His research interests include neural networks, deep learning, machine learning and computer vision, etc.
+I received B.Sc. degree in applied mathematics and his M.Sc. degree in operational research and control theory from Northeastern University, China, in 1999 and 2002, respectively, and my Ph.D.degree in electrical and electronic engineering from Nanyang Technological University, Singapore, in 2007. I was as a PosDoc in National University of Singapore, Singapore, worked in many multinational corporations (Teraoka, Etiqa, SenseTime, etc). Now I am as an image recognition expert in Midea Group. My research interests include neural networks, deep learning, machine learning and computer vision, etc.
 
 ### Publications
 
