@@ -4,9 +4,9 @@ I received B.Sc. degree in applied mathematics and M.Sc. degree in operational r
 
 ### Publications
 
-1.	Guang-Bin Huang, **Lei Chen**, Chee-Kheong Siew, Universal Approximation Using Incremental Constructive Feedforward Networks with Random Hidden Nodes, IEEE Transactions on Neural Networks, vol.17, no.4, pp.879-892, 2006. <font color=#FF000 >Google Scholar Citations:2565</font>
-2.	Guang-Bin Huang, **Lei Chen**, Convex Incremental Extreme Learning Machine, Neurocomputing, vol.70, pp.3056-3062, 2007. <font color=#FF000 >Google Scholar Citations:1163</font>
-3.	Guang-Bin Huang, **Lei Chen**, Enhanced Random Search Based Incremental Extreme Learning Machine, Neurocomputing, vol.71, pp.3460-3468, Issues 16-18, 2008. <font color=#FF000 >Google Scholar Citations:956</font>
+1.	Guang-Bin Huang, **Lei Chen**, Chee-Kheong Siew, Universal Approximation Using Incremental Constructive Feedforward Networks with Random Hidden Nodes, IEEE Transactions on Neural Networks, vol.17, no.4, pp.879-892, 2006. ***Google Scholar Citations:2565***
+2.	Guang-Bin Huang, **Lei Chen**, Convex Incremental Extreme Learning Machine, Neurocomputing, vol.70, pp.3056-3062, 2007. ***Google Scholar Citations:1163***
+3.	Guang-Bin Huang, **Lei Chen**, Enhanced Random Search Based Incremental Extreme Learning Machine, Neurocomputing, vol.71, pp.3460-3468, Issues 16-18, 2008. ***Google Scholar Citations:956***
 4.	**Lei Chen**, Hung Keng Pung, Feedforward Neural Networks without Orthonormalization, 9th International Conference on Enterprise Information Systems 2007 (ICEIS2007), pp.420-423, 2007
 5.	**Lei Chen**, Huang Keng Pung, Convergence Analysis of Convex Incremental Neural Networks, Annals of Mathematics and Artificial Intelligence, vol. 52, pp. 67-80, 2008
 6.	**Lei Chen**, Li Feng Zhou, Hung Keng Pung, Universal Approximation and QoS Violation Application of Extreme Learning Machine, Neural Process Letter, vol. 28, pp. 81-95, 2008
