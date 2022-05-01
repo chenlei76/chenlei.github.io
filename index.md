@@ -10,19 +10,23 @@ I received B.Sc. degree in applied mathematics and M.Sc. degree in operational r
 4.	**Lei Chen**, Hung Keng Pung, Feedforward Neural Networks without Orthonormalization, 9th International Conference on Enterprise Information Systems 2007 (ICEIS2007), pp.420-423, 2007
 5.	**Lei Chen**, Huang Keng Pung, Convergence Analysis of Convex Incremental Neural Networks, Annals of Mathematics and Artificial Intelligence, vol. 52, pp. 67-80, 2008
 6.	**Lei Chen**, Li Feng Zhou, Hung Keng Pung, Universal Approximation and QoS Violation Application of Extreme Learning Machine, Neural Process Letter, vol. 28, pp. 81-95, 2008
-7.	Guang-Bin Huang, Mingbin Li, **Lei Chen**, Incremental Extreme Learning Machine with Fully Complex Hidden Nodes, Neurocomputing, vol.71, pp. 576-583, 2007.
-8.	Guang-Bin Huang, Mingbin Li, **Lei Chen**, Complex Incremental Extreme Learning Machine, ISNN 2007
-9.	Li Feng Zhou, **Lei Chen**, Hung Keng Pung, End-to-end Diagnosis of QoS Violations Using Neural Networks, in Proc. the 33rd IEEE International Conference on Local Computer Networks (LCN), 2008
-10.	**Lei Chen**, Hung Keng Pung, Guang-Bin Huang, Systemical Convergence Rate Analysis of Convex Incremental Feedforward Neural Networks, Neurocomputing, vol. 72, pp. 2627-2635, 2009
-11.	Yaozhang Pan, Shuzhi Sam Ge, **Lei Chen**, Real-time Face Detection for Human Robot Interaction, 18th IEEE International Symposium on Robot and Human Interactive Communication, pp. 1016-1021, 2009
-12.	Li Feng Zhou, **Lei Chen**, Identifying QoS Violations Through Statistical End-to-End Analysis, International Journal of Communication Systems, vol. 24, pp. 1388-1406, Issue 10, 2011
-13.	Zhijin Zhang, He Li, **Lei Chen**, Ping Han, Rolling Bearing Fault Diagnosis Using Improved Deep Residual Shrinkage Networks, Shock and Vibration, vol. 2021
-14.	Zhijin Zhang, He Li, **Lei Chen**, Deep Residual Shrinkage Networks with Self-Adaptive Slope Thresholding for Fault Diagnosis, CMMNO, 2021
-15.	Zhijin Zhang, **Lei Chen**, Chunlei Zhang, Huaitao Shi, He Li, GMA-DRSNs: A novel fault diagnosis method with global multi-attention deep residual shrinkage networks, Accepted by Measurement, 2021
-16.	**Lei Chen**, Jun Lu, PCAM: Pooling information compensation based on attention mechanism, Submitted to Neurocomputing
-17.	Zhijin Zhang, **Lei Chen**, He Li, A self-adaptive DRSN-GPReLU for bearings fault diagnosis under variable working conditions, Submitted to Part C: Journal of Mechanical Engineering Science, 2022
-18.	**Lei Chen**, YiLin Wang, YunHe Wu, Wei Chen, Linear Convergence for Generalized Convex Neural Networks, Submitted to IEEE Transactions on Intelligent Transportation Systems Transactions, 2022
-19.	**Lei Chen**, YiLin Wang, Fei Han, Wei Chen, Convex Incremental Neural Network Design Guideline, Submitted to IEEE Transactions on Neural Networks And Learning Systems, 2022
+7.	**Lei Chen**, Guang-Bin Huang, Chee-Kheong Siew, Simplification of a Specific Two-Hidden-Layer Feedforward Networks, ICICS-PCM, 2003
+8.	Guang-Bin Huang, **Lei Chen**, Chee-Kheong Siew, Universal Approximation Using Incremental Feedforward networks with Arbitrary Input weights, Technical Report ICIS, 2003
+9.	Guang-Bin Huang, **Lei Chen**, Ke Zhi Mao, Chee-Kheong Siew, P. Saratchandran, N. Sundararajan, Universal Approximation Using Incremental Constructive Feedforward networks with Random Hidden Nodes, Technical Report ICIS, 2004
+10.	Guang-Bin Huang, Mingbin Li, **Lei Chen**, Incremental Extreme Learning Machine with Fully Complex Hidden Nodes, Neurocomputing, vol.71, pp. 576-583, 2007.
+11.	Guang-Bin Huang, Mingbin Li, **Lei Chen**, Complex Incremental Extreme Learning Machine, ISNN 2007
+12.	Li Feng Zhou, **Lei Chen**, Hung Keng Pung, End-to-end Diagnosis of QoS Violations Using Neural Networks, in Proc. the 33rd IEEE International Conference on Local Computer Networks (LCN), 2008
+13.	**Lei Chen**, Hung Keng Pung, Guang-Bin Huang, Systemical Convergence Rate Analysis of Convex Incremental Feedforward Neural Networks, Neurocomputing, vol. 72, pp. 2627-2635, 2009
+14.	Yaozhang Pan, Shuzhi Sam Ge, **Lei Chen**, Real-time Face Detection for Human Robot Interaction, 18th IEEE International Symposium on Robot and Human Interactive Communication, pp. 1016-1021, 2009
+15.	Shuzhi Sam Ge, Yaozhang Pan, **Lei Chen**, Equivalent Relationship of Feedforward Neural Networks and Real-Time Face Detection System, Fira Roboworld Congress on Advances in Robotics, 2009
+16.	Li Feng Zhou, **Lei Chen**, Identifying QoS Violations Through Statistical End-to-End Analysis, International Journal of Communication Systems, vol. 24, pp. 1388-1406, Issue 10, 2011
+17.	Zhijin Zhang, He Li, **Lei Chen**, Ping Han, Rolling Bearing Fault Diagnosis Using Improved Deep Residual Shrinkage Networks, Shock and Vibration, vol. 2021
+18.	Zhijin Zhang, He Li, **Lei Chen**, Deep Residual Shrinkage Networks with Self-Adaptive Slope Thresholding for Fault Diagnosis, CMMNO, 2021
+19.	Zhijin Zhang, **Lei Chen**, Chunlei Zhang, Huaitao Shi, He Li, GMA-DRSNs: A novel fault diagnosis method with global multi-attention deep residual shrinkage networks, Accepted by Measurement, 2021
+20.	**Lei Chen**, Jun Lu, PCAM: Pooling information compensation based on attention mechanism, Submitted to Neurocomputing
+21.	Zhijin Zhang, **Lei Chen**, He Li, A self-adaptive DRSN-GPReLU for bearings fault diagnosis under variable working conditions, Submitted to Part C: Journal of Mechanical Engineering Science, 2022
+22.	**Lei Chen**, YiLin Wang, YunHe Wu, Wei Chen, Linear Convergence for Generalized Convex Neural Networks, Submitted to IEEE Transactions on Intelligent Transportation Systems Transactions, 2022
+23.	**Lei Chen**, YiLin Wang, Fei Han, Wei Chen, Convex Incremental Neural Network Design Guideline, Submitted to IEEE Transactions on Neural Networks And Learning Systems, 2022
 
 ### Patent
 1.	陈磊，陈蔚，魏中科，清洗设备（CN216317472U）
