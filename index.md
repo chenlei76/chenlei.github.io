@@ -22,7 +22,7 @@ I received B.Sc. degree in applied mathematics and M.Sc. degree in operational r
 16.	Li Feng Zhou, **Lei Chen**, Identifying QoS Violations Through Statistical End-to-End Analysis, International Journal of Communication Systems, vol. 24, pp. 1388-1406, Issue 10, 2011
 17.	Zhijin Zhang, He Li, **Lei Chen**, Ping Han, Rolling Bearing Fault Diagnosis Using Improved Deep Residual Shrinkage Networks, Shock and Vibration, vol. 2021
 18.	Zhijin Zhang, He Li, **Lei Chen**, Deep Residual Shrinkage Networks with Self-Adaptive Slope Thresholding for Fault Diagnosis, CMMNO, 2021
-19.	Zhijin Zhang, **Lei Chen**, Chunlei Zhang, Huaitao Shi, He Li, GMA-DRSNs: A novel fault diagnosis method with global multi-attention deep residual shrinkage networks, Accepted by Measurement, 2021
+19.	Zhijin Zhang, **Lei Chen**, Chunlei Zhang, Huaitao Shi, He Li, GMA-DRSNs: A novel fault diagnosis method with global multi-attention deep residual shrinkage networks, vol.196, no.5, 2022
 20.	**Lei Chen**, Jun Lu, PCAM: Pooling information compensation based on attention mechanism, Submitted to Neurocomputing
 21.	Zhijin Zhang, **Lei Chen**, He Li, A self-adaptive DRSN-GPReLU for bearings fault diagnosis under variable working conditions, Submitted to Part C: Journal of Mechanical Engineering Science, 2022
 22.	**Lei Chen**, YiLin Wang, YunHe Wu, Wei Chen, Linear Convergence for Generalized Convex Neural Networks, Submitted to IEEE Transactions on Intelligent Transportation Systems Transactions, 2022
